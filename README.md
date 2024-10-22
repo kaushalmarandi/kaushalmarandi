@@ -1,6 +1,6 @@
 ## 👋 Hi, I’m Kaushal Marandi 😃
 
-- 👀 I’m interested in Backend Development <img src="https://github.com/user-attachments/assets/fe9b78ca-ba29-4382-bf85-1b1201eb4bde" align="right" width="630" height="360">
+- 👀 I’m interested in Backend Development <img src="https://github.com/user-attachments/assets/fe9b78ca-ba29-4382-bf85-1b1201eb4bde" align="right" width="500" height="300">
 - 🌱 I’m currently learning HLD
 - 💞️ I’m looking to collaborate on SpringBoot Projects
 - 📫 How to reach me : kaushalmarandi884@gmail.com
